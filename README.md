@@ -1,5 +1,7 @@
 # DataAnalyticsAssignments
 Course Name: 3333 Data Analytics: A Hands-on Approach
+
+
 Course Description: This is an applied statistics course for all math or science major students. The aim is to provide an application oriented training on data analytics in industrial or business setting. The course will cover a wide selection of data analytic techniques to equip students with appropriate computing skills and required statistical methodologies to conduct machine learning and data mining. The lectures will cover various methodologies and algorithms; as well as teach students to use data analytics related software (R or others) to solve real life problems. The students are expected to analyze data with the proposed software. Prerequisites: SC/MATH 1131 or equivalent; LE/EECS 1560 or LE/EESC 1541 or equivalent.
 
 
